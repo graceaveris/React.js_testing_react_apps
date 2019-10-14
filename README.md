@@ -1,4 +1,4 @@
-**Day Thirty - 30 days of React challenge - Testing with Jest, Enzyme, and React testing Library **
+**Day Thirty - 30 days of React challenge - Testing with Jest, Enzyme, and React testing Library**
 
 Getting the basics down regarding testing React apps, so I have an understanding going forward.
 
