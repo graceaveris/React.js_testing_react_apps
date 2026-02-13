@@ -6,7 +6,7 @@
     "@testing-library/react": "^9.3.0",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
-    "react-scripts": "3.1.2"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -32,7 +32,7 @@
   "devDependencies": {
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.14.0",
-    "jest": "^24.9.0",
+    "jest": "^30.2.0",
     "react-test-renderer": "^16.10.1"
   }
 }
